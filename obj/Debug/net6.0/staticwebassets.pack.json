@@ -1,903 +1,903 @@
 {
   "Files": [
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/obj/Debug/net6.0/scopedcss/projectbundle/products.bundle.scp.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/obj/Debug/net6.0/scopedcss/projectbundle/products.bundle.scp.css",
       "PackagePath": "staticwebassets/products.bundle.scp.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/.DS_Store",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/common.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/common.css",
       "PackagePath": "staticwebassets/css/common.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/custom-styles.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/custom-styles.css",
       "PackagePath": "staticwebassets/css/custom-styles.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/hoverEffect.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/hoverEffect.css",
       "PackagePath": "staticwebassets/css/hoverEffect.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/reset.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/reset.css",
       "PackagePath": "staticwebassets/css/reset.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/site.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/style.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/swiper.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/swiper.css",
       "PackagePath": "staticwebassets/css/swiper.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/css/top_pages.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/css/top_pages.css",
       "PackagePath": "staticwebassets/css/top_pages.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/.DS_Store",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/.DS_Store",
       "PackagePath": "staticwebassets/demo/.DS_Store"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/animate.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/animate.css",
       "PackagePath": "staticwebassets/demo/css/animate.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/bootstrap.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/demo/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/home.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/home.css",
       "PackagePath": "staticwebassets/demo/css/home.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/home.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/home.css.map",
       "PackagePath": "staticwebassets/demo/css/home.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/slick-theme.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/slick-theme.css",
       "PackagePath": "staticwebassets/demo/css/slick-theme.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/slick.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/slick.css",
       "PackagePath": "staticwebassets/demo/css/slick.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/style.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/style.css",
       "PackagePath": "staticwebassets/demo/css/style.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/style.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/style.css.map",
       "PackagePath": "staticwebassets/demo/css/style.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/css/style2.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/css/style2.css",
       "PackagePath": "staticwebassets/demo/css/style2.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/about/about.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/about/about.jpg",
       "PackagePath": "staticwebassets/demo/images/about/about.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/about/awards-logo.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/about/awards-logo.png",
       "PackagePath": "staticwebassets/demo/images/about/awards-logo.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/avater.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/avater.jpg",
       "PackagePath": "staticwebassets/demo/images/avater.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/backgrounds/bg-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/backgrounds/bg-1.jpg",
       "PackagePath": "staticwebassets/demo/images/backgrounds/bg-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/backgrounds/coming-soon-bg.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/backgrounds/coming-soon-bg.jpg",
       "PackagePath": "staticwebassets/demo/images/backgrounds/coming-soon-bg.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/avater-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/avater-1.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/avater-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/avater-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/avater-2.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/avater-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/avater-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/avater-3.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/avater-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/avater-4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/avater-4.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/avater-4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-1.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-2.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-3.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-4.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-5.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-5.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-5.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/blog-post-6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/blog-post-6.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/blog-post-6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-2.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-3.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-4.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-5.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-5.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-5.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-6.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb-7.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb-7.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb-7.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/blog/post-thumb.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/blog/post-thumb.jpg",
       "PackagePath": "staticwebassets/demo/images/blog/post-thumb.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/favicon.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/favicon.png",
       "PackagePath": "staticwebassets/demo/images/favicon.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/logo.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/logo.png",
       "PackagePath": "staticwebassets/demo/images/logo.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/cart/cart-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/cart/cart-1.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/cart/cart-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/cart/cart-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/cart/cart-2.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/cart/cart-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/cart/cart-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/cart/cart-3.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/cart/cart-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/category/category-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/category/category-1.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/category/category-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/category/category-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/category/category-2.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/category/category-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/category/category-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/category/category-3.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/category/category-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/header-img.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/header-img.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/header-img.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/modal-product.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/modal-product.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/modal-product.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-1.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-2.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-3.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-4.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-5.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-5.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-5.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-6.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-7.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-7.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-7.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-8.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-8.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-8.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/product-9.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/product-9.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/product-9.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/products/single-product.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/products/single-product.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/products/single-product.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-1.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-2.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-3.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-4.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-5.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-5.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-5.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/single-products/product-6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/single-products/product-6.jpg",
       "PackagePath": "staticwebassets/demo/images/shop/single-products/product-6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/shop/verified.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/shop/verified.png",
       "PackagePath": "staticwebassets/demo/images/shop/verified.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/slider/slider-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/slider/slider-1.jpg",
       "PackagePath": "staticwebassets/demo/images/slider/slider-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/slider/slider-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/slider/slider-2.jpg",
       "PackagePath": "staticwebassets/demo/images/slider/slider-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/slider/slider-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/slider/slider-3.jpg",
       "PackagePath": "staticwebassets/demo/images/slider/slider-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/team/team-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/team/team-1.jpg",
       "PackagePath": "staticwebassets/demo/images/team/team-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/team/team-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/team/team-2.jpg",
       "PackagePath": "staticwebassets/demo/images/team/team-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/images/team/team-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/images/team/team-3.jpg",
       "PackagePath": "staticwebassets/demo/images/team/team-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/jquery/jquery.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/jquery/jquery.min.js",
       "PackagePath": "staticwebassets/demo/jquery/jquery.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/jquery/jquery.min.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/jquery/jquery.min.map",
       "PackagePath": "staticwebassets/demo/jquery/jquery.min.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/js/script.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/js/script.js",
       "PackagePath": "staticwebassets/demo/js/script.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/animate/animate.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/animate/animate.css",
       "PackagePath": "staticwebassets/demo/plugins/animate/animate.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/demo/demo.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/demo/demo.css",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/demo/demo.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/demo/favicon.ico",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/demo/favicon.ico",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/demo/favicon.ico"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/demo/index.html",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/demo/index.html",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/demo/index.html"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.js",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.css",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.css",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.js",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap-touchspin/src/jquery.bootstrap-touchspin.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap/css/bootstrap.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap/js/bootstrap.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap/js/bootstrap.js",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap/js/bootstrap.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/bootstrap/js/bootstrap.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/bootstrap/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/demo/plugins/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.css",
       "PackagePath": "staticwebassets/demo/plugins/ekko-lightbox/dist/ekko-lightbox.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.js",
       "PackagePath": "staticwebassets/demo/plugins/ekko-lightbox/dist/ekko-lightbox.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.css",
       "PackagePath": "staticwebassets/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.js",
       "PackagePath": "staticwebassets/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/google-map/gmap.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/google-map/gmap.js",
       "PackagePath": "staticwebassets/demo/plugins/google-map/gmap.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/google-map/images/marker.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/google-map/images/marker.png",
       "PackagePath": "staticwebassets/demo/plugins/google-map/images/marker.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/instafeed/instafeed.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/instafeed/instafeed.min.js",
       "PackagePath": "staticwebassets/demo/plugins/instafeed/instafeed.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/core.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/core.js",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/core.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.min.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.slim.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.slim.js",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.slim.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.slim.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.slim.min.js",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/jquery/dist/jquery.slim.min.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/demo/plugins/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/README.markdown",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/README.markdown",
       "PackagePath": "staticwebassets/demo/plugins/slick/README.markdown"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/ajax-loader.gif",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/ajax-loader.gif",
       "PackagePath": "staticwebassets/demo/plugins/slick/ajax-loader.gif"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/fonts/slick.eot",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/fonts/slick.eot",
       "PackagePath": "staticwebassets/demo/plugins/slick/fonts/slick.eot"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/fonts/slick.svg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/fonts/slick.svg",
       "PackagePath": "staticwebassets/demo/plugins/slick/fonts/slick.svg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/fonts/slick.ttf",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/fonts/slick.ttf",
       "PackagePath": "staticwebassets/demo/plugins/slick/fonts/slick.ttf"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/fonts/slick.woff",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/fonts/slick.woff",
       "PackagePath": "staticwebassets/demo/plugins/slick/fonts/slick.woff"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/slick-animation.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/slick-animation.min.js",
       "PackagePath": "staticwebassets/demo/plugins/slick/slick-animation.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/slick-theme.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/slick-theme.css",
       "PackagePath": "staticwebassets/demo/plugins/slick/slick-theme.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/slick.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/slick.css",
       "PackagePath": "staticwebassets/demo/plugins/slick/slick.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/slick/slick.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/slick/slick.min.js",
       "PackagePath": "staticwebassets/demo/plugins/slick/slick.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.js",
       "PackagePath": "staticwebassets/demo/plugins/smooth-scroll/dist/js/smooth-scroll.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.min.js",
       "PackagePath": "staticwebassets/demo/plugins/smooth-scroll/dist/js/smooth-scroll.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.js",
       "PackagePath": "staticwebassets/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.min.js",
       "PackagePath": "staticwebassets/demo/plugins/smooth-scroll/dist/js/smooth-scroll.polyfills.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/syo-timer/build/jquery.syotimer.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/syo-timer/build/jquery.syotimer.min.js",
       "PackagePath": "staticwebassets/demo/plugins/syo-timer/build/jquery.syotimer.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/Read Me.txt",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/Read Me.txt",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/Read Me.txt"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/demo-files/demo.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/demo-files/demo.css",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/demo-files/demo.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/demo-files/demo.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/demo-files/demo.js",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/demo-files/demo.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/demo.html",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/demo.html",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/demo.html"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.eot",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.eot",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/fonts/themefisher-font.eot"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.svg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.svg",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/fonts/themefisher-font.svg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.ttf",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.ttf",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/fonts/themefisher-font.ttf"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.woff",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/fonts/themefisher-font.woff",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/fonts/themefisher-font.woff"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/selection.json",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/selection.json",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/selection.json"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/demo/plugins/themefisher-font/style.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/demo/plugins/themefisher-font/style.css",
       "PackagePath": "staticwebassets/demo/plugins/themefisher-font/style.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/favicon.ico",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/001.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/001.jpg",
       "PackagePath": "staticwebassets/imgs/001.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/27d749e4-6538-43da-abd8-6bbf0e61b53f.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/27d749e4-6538-43da-abd8-6bbf0e61b53f.jpg",
       "PackagePath": "staticwebassets/imgs/27d749e4-6538-43da-abd8-6bbf0e61b53f.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/2f41661f-56c2-4215-b8a4-f8ef88863261.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/2f41661f-56c2-4215-b8a4-f8ef88863261.jpg",
       "PackagePath": "staticwebassets/imgs/2f41661f-56c2-4215-b8a4-f8ef88863261.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/3fd845d9-139f-476f-9499-5191e81cfb4d.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/3fd845d9-139f-476f-9499-5191e81cfb4d.jpg",
       "PackagePath": "staticwebassets/imgs/3fd845d9-139f-476f-9499-5191e81cfb4d.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/46ae1ea4-ddc2-4ece-9ece-1bb40d1ea076.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/46ae1ea4-ddc2-4ece-9ece-1bb40d1ea076.jpg",
       "PackagePath": "staticwebassets/imgs/46ae1ea4-ddc2-4ece-9ece-1bb40d1ea076.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/49d356bb-9189-46a6-be28-5c441639d807.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/49d356bb-9189-46a6-be28-5c441639d807.jpg",
       "PackagePath": "staticwebassets/imgs/49d356bb-9189-46a6-be28-5c441639d807.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/589e4c8c-a864-413e-b4af-354299302360.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/589e4c8c-a864-413e-b4af-354299302360.jpg",
       "PackagePath": "staticwebassets/imgs/589e4c8c-a864-413e-b4af-354299302360.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/679180b8-eea1-42c7-b725-239c839e1bf5.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/679180b8-eea1-42c7-b725-239c839e1bf5.jpg",
       "PackagePath": "staticwebassets/imgs/679180b8-eea1-42c7-b725-239c839e1bf5.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/69ecd0d9-809a-4b14-a4c6-a1e34e74327c.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/69ecd0d9-809a-4b14-a4c6-a1e34e74327c.jpg",
       "PackagePath": "staticwebassets/imgs/69ecd0d9-809a-4b14-a4c6-a1e34e74327c.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/6bbf7af9-3212-4051-a68f-bae76c8d83c6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/6bbf7af9-3212-4051-a68f-bae76c8d83c6.jpg",
       "PackagePath": "staticwebassets/imgs/6bbf7af9-3212-4051-a68f-bae76c8d83c6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/70d6d870-a7ea-4283-83c5-9e077fecfcd1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/70d6d870-a7ea-4283-83c5-9e077fecfcd1.jpg",
       "PackagePath": "staticwebassets/imgs/70d6d870-a7ea-4283-83c5-9e077fecfcd1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/8f8609a9-a125-4e41-a59b-1aca1ed28edd.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/8f8609a9-a125-4e41-a59b-1aca1ed28edd.jpg",
       "PackagePath": "staticwebassets/imgs/8f8609a9-a125-4e41-a59b-1aca1ed28edd.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/avater-1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/avater-1.jpg",
       "PackagePath": "staticwebassets/imgs/avater-1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/avater-2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/avater-2.jpg",
       "PackagePath": "staticwebassets/imgs/avater-2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/avater-3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/avater-3.jpg",
       "PackagePath": "staticwebassets/imgs/avater-3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/bc8bfa3d-14f6-4489-8419-4d155eb3dc69.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/bc8bfa3d-14f6-4489-8419-4d155eb3dc69.jpg",
       "PackagePath": "staticwebassets/imgs/bc8bfa3d-14f6-4489-8419-4d155eb3dc69.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/bd5c81d7-2a9f-41fb-99ac-bc16180e68a3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/bd5c81d7-2a9f-41fb-99ac-bc16180e68a3.jpg",
       "PackagePath": "staticwebassets/imgs/bd5c81d7-2a9f-41fb-99ac-bc16180e68a3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/bdaaa39f-92fb-403a-b118-c479725725e8.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/bdaaa39f-92fb-403a-b118-c479725725e8.jpg",
       "PackagePath": "staticwebassets/imgs/bdaaa39f-92fb-403a-b118-c479725725e8.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/c1dea733-72a7-4518-992a-5d20fd8dd40e.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/c1dea733-72a7-4518-992a-5d20fd8dd40e.jpg",
       "PackagePath": "staticwebassets/imgs/c1dea733-72a7-4518-992a-5d20fd8dd40e.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/df8e69f2-226d-41fe-8103-db2dffb3e87e.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/df8e69f2-226d-41fe-8103-db2dffb3e87e.jpg",
       "PackagePath": "staticwebassets/imgs/df8e69f2-226d-41fe-8103-db2dffb3e87e.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/e42585ee-3bf2-4396-a0eb-35803454f231.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/e42585ee-3bf2-4396-a0eb-35803454f231.jpg",
       "PackagePath": "staticwebassets/imgs/e42585ee-3bf2-4396-a0eb-35803454f231.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/e893740f-fa74-4c42-b7a0-2995893f069b.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/e893740f-fa74-4c42-b7a0-2995893f069b.jpg",
       "PackagePath": "staticwebassets/imgs/e893740f-fa74-4c42-b7a0-2995893f069b.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/eba06283-d0d0-4f57-ba16-94d3c03082ba.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/eba06283-d0d0-4f57-ba16-94d3c03082ba.jpg",
       "PackagePath": "staticwebassets/imgs/eba06283-d0d0-4f57-ba16-94d3c03082ba.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/f767434a-aeb9-4ebd-896f-97d727a80b82.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/f767434a-aeb9-4ebd-896f-97d727a80b82.jpg",
       "PackagePath": "staticwebassets/imgs/f767434a-aeb9-4ebd-896f-97d727a80b82.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/f7d237d5-d65e-4310-9206-64f2abdadbfa.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/f7d237d5-d65e-4310-9206-64f2abdadbfa.jpg",
       "PackagePath": "staticwebassets/imgs/f7d237d5-d65e-4310-9206-64f2abdadbfa.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/fad307b7-a665-47a7-a1e0-e57e6314c1a6.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/fad307b7-a665-47a7-a1e0-e57e6314c1a6.jpg",
       "PackagePath": "staticwebassets/imgs/fad307b7-a665-47a7-a1e0-e57e6314c1a6.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/ff30b491-93c0-484f-8f3c-8dc75b499f25.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/ff30b491-93c0-484f-8f3c-8dc75b499f25.jpg",
       "PackagePath": "staticwebassets/imgs/ff30b491-93c0-484f-8f3c-8dc75b499f25.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖1.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖1.jpg",
       "PackagePath": "staticwebassets/imgs/封面圖1.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖2.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖2.jpg",
       "PackagePath": "staticwebassets/imgs/封面圖2.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖3.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖3.jpg",
       "PackagePath": "staticwebassets/imgs/封面圖3.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖4.jpg",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖4.jpg",
       "PackagePath": "staticwebassets/imgs/封面圖4.jpg"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖5.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖5.png",
       "PackagePath": "staticwebassets/imgs/封面圖5.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/imgs/封面圖6.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/imgs/封面圖6.png",
       "PackagePath": "staticwebassets/imgs/封面圖6.png"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/js/site.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/.DS_Store",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/.DS_Store",
       "PackagePath": "staticwebassets/lib/.DS_Store"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/logo/CreamU.ico",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/logo/CreamU.ico",
       "PackagePath": "staticwebassets/logo/CreamU.ico"
     },
     {
-      "Id": "/Users/tzuchin/Desktop/CREAMU-練習/wwwroot/logo/CreamU.png",
+      "Id": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/wwwroot/logo/CreamU.png",
       "PackagePath": "staticwebassets/logo/CreamU.png"
     },
     {

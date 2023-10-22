@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zov7R9M3TXl1tMVQAQcLHwsi46vib9H2g1gjHfQN0o/SL/EWitGkKCIUW6v9gyFelAofGlc6Hx+6Z6mXTk7Fg==",
+  "dgSpecHash": "8c9BX7hffnJk6zRM3vpAQLVAAmHnnGyB4pWk6kvvUd+teKHJyiGAGVFEApVo5QRbnI5Cv192HrWPWVxJkpo62A==",
   "success": true,
-  "projectFilePath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/products.csproj",
+  "projectFilePath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/products.csproj",
   "expectedPackageFiles": [
     "/Users/tzuchin/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/tzuchin/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

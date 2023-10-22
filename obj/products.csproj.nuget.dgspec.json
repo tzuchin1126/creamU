@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/products.csproj": {}
+    "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/products.csproj": {}
   },
   "projects": {
-    "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/products.csproj": {
+    "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/products.csproj",
+        "projectUniqueName": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/products.csproj",
         "projectName": "products",
-        "projectPath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/products.csproj",
+        "projectPath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/products.csproj",
         "packagesPath": "/Users/tzuchin/.nuget/packages/",
-        "outputPath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/obj/",
+        "outputPath": "/Users/tzuchin/Documents/自己練習的作品/CREAMU-練習/creamU/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tzuchin/.nuget/NuGet/NuGet.Config"
