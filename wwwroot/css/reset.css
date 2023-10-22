@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/* -------（reset CSS）-----------------------------------------------*/ 
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,
+pre,form,fieldset,input,textarea,p,blockquote,th,td,header, section, article, footer, article, aside, time ,nav,a,figure{
+margin:0;
+padding:0;
+}
+
+fieldset,img{
+	border:0;
+	height:auto;
+}
+address,caption,cite,code,dfn,em,th,var{
+font-style:normal;
+font-weight:normal;
+}
+ol,ul{
+list-style:none;
+}
+caption,th{
+text-align:left;
+}
+h1,h2,h3,h4,h5,h6{
+font-size:100%;
+font-weight:normal;
+}
+q:before,q:after{
+content:'';
+}
+abbr,acronym{
+border:0;
+}
+p{
+text-justify:inter-ideograph;
+margin: 0 0 1em 0;
+}
+
+header, section, article, footer, article, aside, time ,nav { display: block; }
+
+figure{ line-height:0;}

@@ -1,0 +1,404 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>A</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Construction Html5 Template">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+	<meta name="author" content="Themefisher">
+	<meta name="generator" content="Themefisher Constra HTML Template v1.0">
+
+	<!-- theme meta -->
+	<meta name="theme-name" content="aviato" />
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="~/demo/images/favicon.png" />
+	<!-- Themefisher Icon font -->
+	<link rel="stylesheet" href="/demo/plugins/themefisher-font/style.css">
+	<!-- bootstrap.min css -->
+	<link rel="stylesheet" href="~/demo/css/bootstrap.min.css">
+	<!-- Animate css -->
+	<link rel="stylesheet" href="~/demo/css/animate.css">
+	<!-- Slick Carousel -->
+	<link rel="stylesheet" href="~/demo/css/slick.css">
+	<link rel="stylesheet" href="~/demo/css/slick-theme.css">
+	<!-- Main Stylesheet -->
+	<link rel="stylesheet" href="~/demo/css/style.css">
+
+	<style>
+		/*輪播圖*/
+		#carouselExampleIndicators {
+			max-width: 100%; /* 设置一个适当的最大宽度 */
+			margin: auto; /* 将轮播图居中 */
+		}
+		.text-center{
+			margin-bottom:50px;
+		}
+
+		/*商品列表致中*/
+		.container{
+			padding-right:0;
+			padding-left:0;
+		}
+	</style>
+</head>
+
+
+<body id="body">
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	@*輪播圖*@
+	<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+		</div>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<img src="~/imgs/封面圖3.jpg" class="d-block w-100" alt="...">
+			</div>
+			<div class="carousel-item">
+				<img src="~/imgs/封面圖2.jpg" class="d-block w-100" alt="...">
+			</div>
+			<div class="carousel-item">
+				<img src="~/imgs/封面圖1.jpg" class="d-block w-100" alt="...">
+			</div>
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+
+	<section class="products section bg-gray">
+		<div class="container">
+			<h3 class="text-center" style="margin-bottom:5px; font-weight:700">全部商品</h3>
+			<h5 class="section-sub-title" style="text-align:center">All Products</h5>
+			@*關鍵字*@
+			<form>
+				@using (Html.BeginForm())
+				{
+					<div class="d-flex justify-content-center">
+						<div class="d-flex align-items-stretch" style="margin-bottom:20px;">
+							@Html.TextBox("txtKeyword", null, new { placeholder = "商品名稱", @class = "search-input form-control col-md-3 ", style = "border: 1px solid #EAE4DA; border-radius: 10px; color: #868283; font-size: 14px; flex-grow: 1;" })
+							<button type="submit" class="btn btn-info" style="color: white; opacity: 0.8; border-radius: 10px;  font-size: 14px; margin-left:5px;">查詢</button>
+						</div>
+					</div>
+				}
+			</form>
+			<div class="row">
+				@foreach (var item in Model)
+				{
+					<div class="col-md-3">
+						<div class="product-item">
+							<div class="product-thumb">
+								<img class="img-responsive" src="~/imgs/@item.ProductImage" alt="product-img" />
+								<div class="preview-meta">
+									<ul>
+										<li>
+										@*預覽效果*@
+										<span class="btn-1" data-toggle="modal" data-target="#product-modal" data-product-id="@item.ProductId">
+											<i class="tf-ion-ios-search-strong"></i>
+										</span>
+										</li>
+										<li>
+											<a href="#!"><i class="tf-ion-ios-heart"></i></a>
+										</li>
+										<li>
+											<a href="@Url.Action("AddToCart", new { id = item.ProductId })">
+												<i class="tf-ion-android-cart"></i>
+											</a>
+											@*<a href="#!"><i class="tf-ion-android-cart"></i></a>*@
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="product-content">
+								<h4><a href="product-single.html">@item.ProductName</a></h4>
+								<p class="price">$@item.Price</p>
+								@*@Html.ActionLink("加入購物車", "AddToCart", new { id = item.ProductId }, new { @class = "btn btn-primary" })*@
+							</div>
+						</div>
+					</div>
+
+					//商品預覽 有一個加入購物車的btn
+					<div class="modal product-modal fade" id="product-modal">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<i class="tf-ion-close"></i>
+						</button>
+						<div class="modal-dialog " role="document">
+							<div class="modal-content">
+								<div class="modal-body">
+									<div class="row">
+										<div class="col-md-8 col-sm-6 col-xs-12">
+											<div class="modal-image">
+												<img class="img-responsive" id="product-modal-image" src="" alt="product-img" style="margin-top:50px;" />
+											</div>
+										</div>
+										<div class="col-md-4 col-sm-6 col-xs-12">
+											<div class="product-short-details">
+												<h4 class="product-title" id="product-modal-title"></h4>
+												<p class="product-price" id="product-modal-price"></p>
+												<p class="product-short-description" id="product-modal-description" style="font-size:13px;"></p>
+												<a href="@Url.Action("AddToCart", new { id = item.ProductId })" class="btn btn-main">
+													@Html.Raw("加入購物車")
+												</a>
+												<a href="product-single.html" class="btn btn-transparent">商品資訊</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+
+		@*分頁*@
+		<nav aria-label="Page navigation example" class="d-flex justify-content-center">
+			<ul class="pagination pagination-sm justify-content-center">
+				@if (ViewBag.pageNum == null || ViewBag.pageNum == 0)
+				{
+					<li class="page-item active" aria-current="page">
+						<span class="page-link">1</span>
+					</li>
+				}
+				else
+				{
+					for (int i = 1; i <= ViewBag.pageNum; i++)
+					{
+						if (i == ViewBag.Page)
+						{
+							<li class="page-item active" aria-current="page">
+								<span class="page-link">@i</span>
+							</li>
+						}
+						else
+						{
+							<li class="page-item">
+								<a class="page-link" href="@Url.Action("Index", new { Page = i, KeyWord = ViewBag.Keyword })">@i</a>
+							</li>
+						}
+					}
+				}
+			</ul>
+		</nav>
+	</section>
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+
+	@*產品介紹*@
+	<section id="news" class="news">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-12">
+					@*<h2 class="section-title">產品介紹</h2>*@
+					<h3 class="text-center" style="margin-bottom:5px; font-weight:700">產品介紹</h3>
+					<h5 class="section-sub-title">Product descriptions</h5>
+				</div>
+			</div>
+			<!--/ Title row end -->
+
+			<div class="row">
+				<div class="col-lg-4 col-md-6 mb-4">
+					<div class="latest-post">
+						<div class="latest-post-media">
+								<img loading="lazy" class="img-fluid" src="~/imgs/封面圖4.jpg" alt="img">
+						</div>
+						<div class="post-body">
+							<h4 class="post-title">
+								<a href="news-single.html" class="d-inline-block">獨特性和個性化</a>
+							</h4>
+							<div class="latest-post-meta">
+								<span class="post-item-date">
+									<i class="fa fa-clock-o"></i> 客製化木偶是獨一無二的，完全根據客戶的要求和設計製作。每個木偶都有其獨特的風格、表情、服裝和特色，能夠突顯出客戶的個性和品味。無論是用於表演、展示或作為禮物，都能帶來獨特的魅力和吸引力。
+								</span>
+							</div>
+						</div>
+					</div><!-- Latest post end -->
+				</div><!-- 1st post col end -->
+
+				<div class="col-lg-4 col-md-6 mb-4">
+					<div class="latest-post">
+						<div class="latest-post-media">
+								<img loading="lazy" class="img-fluid" src="~/imgs/封面圖5.png" alt="img">
+						</div>
+						<div class="post-body">
+							<h4 class="post-title">
+								<a href="news-single.html" class="d-inline-block">符合特定需求</a>
+							</h4>
+							<div class="latest-post-meta">
+								<span class="post-item-date">
+									<i class="fa fa-clock-o"></i> 客製化木偶能夠完全符合特定需求和用途。無論是用於戲劇表演、影片製作、商業宣傳、教育教學還是作為收藏品，木偶的形象、造型和功能都可以根據客戶的需求進行定制。這樣能夠確保木偶完全適合用於特定的場合和目的。
+								</span>
+							</div>
+						</div>
+					</div><!-- Latest post end -->
+				</div><!-- 2nd post col end -->
+
+				<div class="col-lg-4 col-md-6 mb-4">
+					<div class="latest-post">
+						<div class="latest-post-media">
+								<img loading="lazy" class="img-fluid" src="~/imgs/封面圖6.png" alt="img">
+						</div>
+						<div class="post-body">
+							<h4 class="post-title">
+								<a href="news-single.html" class="d-inline-block">專業工藝和品質保證</a>
+							</h4>
+							<div class="latest-post-meta">
+								<span class="post-item-date">
+									<i class="fa fa-clock-o"></i> 客製化木偶通常由專業的藝術家或製作團隊製作。他們擁有豐富的木偶製作經驗和專業的技術，能夠確保木偶的質量和工藝達到高水準。這不僅可以確保木偶的外觀精美，還能確保其功能和耐用性。
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	@*底部*@
+	<footer class="footer section text-center" style="background-color:#e9e9e944;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="social-media">
+						<li>
+							<a href="https://www.facebook.com/themefisher">
+								<i class="tf-ion-social-facebook"></i>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.instagram.com/themefisher">
+								<i class="tf-ion-social-instagram"></i>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.twitter.com/themefisher">
+								<i class="tf-ion-social-twitter"></i>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.pinterest.com/themefisher/">
+								<i class="tf-ion-social-pinterest"></i>
+							</a>
+						</li>
+					</ul>
+					<ul class="footer-menu text-uppercase">
+						<li>
+							<a href="contact.html">首頁</a>
+						</li>
+						<li>
+							<a href="shop.html">商品</a>
+						</li>
+						<li>
+							<a href="pricing.html">購物車</a>
+						</li>
+						<li>
+							<a href="contact.html">登入</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
+
+
+
+
+
+
+<script>
+	$(function () {
+		$('.btn-1').click(function () {
+			var productId = $(this).data('product-id');
+
+			$.ajax({
+				url: '/Index/ProductDetail',
+				type: 'GET',
+				data: { id: productId },
+				success: function (result) {
+					$('#product-modal-image').attr('src', '/imgs/' + result.imageUrl);
+					$('#product-modal-title').text(result.productName);
+					$('#product-modal-price').text('$' + result.price);
+					$('#product-modal-description').text(result.description);
+
+					$('#product-modal').modal('show');
+				},
+				error: function (xhr, status, error) {
+					console.log(error);
+				}
+			});
+		});
+	});
+</script>
+
+
+
+
+
+
+<!-- Main jQuery -->
+<script src="~/demo/plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.1 -->
+<script src="~/demo/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- Bootstrap Touchpin -->
+<script src="~/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js"></script>
+<!-- Instagram Feed Js -->
+<script src="~/demo/plugins/instafeed/instafeed.min.js"></script>
+<!-- Video Lightbox Plugin -->
+<script src="~/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.js"></script>
+<!-- Count Down Js -->
+<script src="~/demo/plugins/syo-timer/build/jquery.syotimer.min.js"></script>
+
+<!-- slick Carousel -->
+<script src="~/demo/plugins/slick/slick.min.js"></script>
+<script src="~/demo/plugins/slick/slick-animation.min.js"></script>
+
+<!-- Google Mapl -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+<script type="text/javascript" src="plugins/google-map/gmap.js"></script>
+
+<!-- Main Js File -->
+<script src="~/demo/js/script.js"></script>
+
+<script src="~/demo/plugins/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.1 -->
+<script src="~/demo/plugins/bootstrap/js/bootstrap.js"></script>
+<script src="~/demo/plugins/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.js"></script>
+<script src="~/demo/plugins/instafeed/instafeed.min.js"></script>
+<script src="~/demo/plugins/ekko-lightbox/dist/ekko-lightbox.min.js"></script>
+<script src="~/demo/plugins/syo-timer/build/jquery.syotimer.min.js"></script>
+<script src="~/demo/plugins/slick/slick.min.js"></script>
+<script src="~/demo/plugins/slick/slick-animation.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+<script type="text/javascript" src="~/demo/plugins/google-map/gmap.js"></script>
+<script src="~/demo/js/script.js"></script>

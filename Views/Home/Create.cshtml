@@ -1,0 +1,124 @@
+﻿@model products.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<!-- 標題 ＆ 麵包屑 -->
+<div style="display: flex; flex-direction: column; text-align: left;">
+    <nav aria-label="breadcrumb" style="margin-left: 5px;">
+        <ol class="breadcrumb" style="padding: 12px 0; margin: 0;">
+            <li class="breadcrumb-item" style="font-size: 14px;">
+                <a href="/" style="color:#737373;">商品目錄</a>
+            </li>
+            <li class="breadcrumb-item" style="font-size: 14px;">新增商品</li>
+        </ol>
+    </nav>
+</div>
+
+
+
+<div class="row justify-content-center" style="padding:10px 10px;">
+    <form asp-action="Create" enctype="multipart/form-data" style="background-color: #efefef;">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <h1 style="font-size: 25px; margin-bottom: 10px; margin:34px 5px; font-weight: 500;">基本資訊</h1>
+
+        @* Product ID *@
+        @*<div class="form-group">
+        <label asp-for="ProductId" class="control-label"></label>
+        <input asp-for="ProductId" class="form-control" />
+        <span asp-validation-for="ProductId" class="text-danger"></span>
+        </div>*@
+
+        <img id="preview" class="img-thumbnail" style="max-height:150px; max-width:150px; margin: 7px 5px;" />
+
+        <div class="form-group">
+            <label asp-for="ProductImage" class="control-label" style="color: #8b8b8b;"> * 商品圖片</label>
+            <input class="form-control" type="file" name="photo" id="photo" />
+            <span asp-validation-for="ProductImage" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProductName" class="control-label" style="color: #8b8b8b;"> * 商品名稱 </label>
+            <input asp-for="ProductName" class="form-control" />
+            <span asp-validation-for="ProductName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Descript" class="control-label" style="color: #8b8b8b;"> * 商品描述</label>
+            <textarea asp-for="Descript" class="form-control" style="height: 100px"> </textarea>
+            <span asp-validation-for="Descript" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Price" class="control-label" style="color: #8b8b8b;">*售價</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ProductStatus" class="control-label" style="color: #8b8b8b;"> 商品狀態 </label>
+            <select class="form-control" asp-for="ProductStatus" asp-items="ViewBag.Categories"></select>
+            <span asp-validation-for="ProductStatus" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ProductStock" class="control-label" style="color: #8b8b8b;"> * 庫存數量</label>
+            <input asp-for="ProductStock" class="form-control" />
+            <span asp-validation-for="ProductStock" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Type" class="control-label" style="color: #8b8b8b;">商品類型</label>
+            <select asp-for="Type" class="form-control">
+                <option value="成品">成品</option>
+                <option value="客製化">客製化</option>
+            </select>
+            <span asp-validation-for="Type" class="text-danger"></span>
+        </div>
+
+        <br />
+
+        <div class="form-group">
+            <input type="submit" value="新增商品" class="btn btn-primary" style="margin-bottom: 25px; " />
+            <button type="button" onclick="location.href='@Url.Action("ProductIndex")'" class="btn btn-primary" style="margin-bottom: 25px;">取消新增</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        //圖片上傳時預覽
+        $('#photo').on('change', function (e) {
+            const file = this.files[0]
+            const objectURL = URL.createObjectURL(file)
+            $('#preview').attr('src', objectURL);
+        });
+
+        //判斷商品名稱
+        $(document).ready(function () {
+            $('#ProductName').on('input', function () {
+                var productName = $(this).val();
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("ValidateProductName", "Product")',
+                    data: { productName: productName },
+                    success: function (result) {
+                        if (result !== true) {
+                            $('.text-danger').text(result);
+                        } else {
+                            $('.text-danger').text('');
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+}

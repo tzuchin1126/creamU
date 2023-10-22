@@ -1,0 +1,88 @@
+.table th {
+    font-size: 14px;
+    font-weight: 500 !important;
+}
+.table td {
+    font-size: 14px;
+}
+
+/*ProductIndex 價格排序ｉｃｏｎ*/
+.sort-header .arrow {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent;
+    margin-left: 5px;
+    vertical-align: middle;
+    transition: transform 0.3s ease-in-out;
+}
+.sort-header .arrow.up {
+    border-bottom-color: #000;
+    transform: rotate(180deg);
+}
+.sort-header .arrow.down {
+    border-top-color: #000;
+}
+
+/* 標題 ＆ 麵包屑 */
+.d1 {
+    display: flex; 
+    flex-direction: column; 
+    text-align: left;
+}
+
+.n1{
+    margin-left: 7px;
+}
+
+.breadcrumb{
+    padding: 12px 0;
+    margin: 0;
+}
+
+.breadcrumb-item{
+    font-size: 14px;
+}
+
+/*新增商品btn*/
+.btn btn-primary {
+    color: white;
+    opacity: 0.8;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+/*查詢btn*/
+.pppp1 {
+    display: inline-block;
+    color: white;
+    opacity: 0.8;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+
+.btn bnt-info p2 {
+    width: 120px;
+    margin-left: 5px;
+    display: inline-block;
+    border: 2px solid #EAE4DA;
+    border-radius: 10px;
+    color: #868283;
+    font-size: 14px;
+}
+
+
+/*.p2 {
+    width: 120px;
+    margin-left: 5px;
+    display: inline-block;
+    border: 2px solid #EAE4DA;
+    border-radius: 10px;
+    color: #868283;
+    font-size: 14px;
+}*/
+
+

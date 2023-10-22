@@ -1,0 +1,34 @@
+.product-description {
+    position: relative;
+    display: inline-block;
+}
+
+.truncated-text {
+    max-width: 100px; /* 調整寬度 */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: default;
+    font-size: 14px;
+}
+
+.full-text {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+    background-color: white;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 200px;
+    height: 120px;
+    font-size: 12px;
+}
+
+.product-description:hover .full-text {
+    display: block;
+}
+
+
+
